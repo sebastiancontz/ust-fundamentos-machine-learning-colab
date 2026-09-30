@@ -1,0 +1,13 @@
+{
+  "generated": true,
+  "title": "Módulo 2 · Fundamentos de Machine Learning",
+  "slug": "fundamentos-machine-learning",
+  "structure": "ediciones",
+  "active_path": "ediciones/2026",
+  "active_year": 2026,
+  "units": [
+    "ediciones/2026"
+  ],
+  "site": "https://sebastiancontz.github.io/ust-diplomado-ia-curso-ml",
+  "source_sha": "7493a1d45cf15b5743a98df9aabe21de3e0fe087"
+}
