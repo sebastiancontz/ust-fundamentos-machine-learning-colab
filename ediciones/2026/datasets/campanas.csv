@@ -1,0 +1,901 @@
+id_campana,mes,canal,presupuesto_mm,duracion_dias,descuento_pct,dia_lanzamiento,num_creatividades,clics_mil,ventas_mm
+CMP-0001,4,Email,8.4,28.0,0,viernes,7,28.5,11.8
+CMP-0002,6,Buscadores,11.7,45.0,0,miércoles,2,56.2,25.4
+CMP-0003,10,TV y radio,22.7,38.0,0,viernes,6,69.4,32.1
+CMP-0004,9,Email,6.6,24.0,20,viernes,3,43.0,18.3
+CMP-0005,10,Redes sociales,18.5,7.0,0,domingo,7,34.0,14.9
+CMP-0006,3,TV y radio,20.0,10.0,10,jueves,2,50.3,24.0
+CMP-0007,11,Email,3.9,24.0,30,jueves,2,31.4,15.0
+CMP-0008,10,Email,3.7,28.0,0,jueves,3,19.7,8.7
+CMP-0009,6,Redes sociales,11.9,8.0,15,lunes,2,26.1,12.0
+CMP-0010,7,Buscadores,10.5,11.0,10,lunes,3,51.6,23.5
+CMP-0011,1,Buscadores,11.3,34.0,20,lunes,5,82.3,35.4
+CMP-0012,10,TV y radio,18.9,36.0,10,viernes,6,82.9,36.3
+CMP-0013,12,Email,13.7,8.0,10,miércoles,5,37.0,15.7
+CMP-0014,6,TV y radio,33.9,26.0,0,domingo,2,81.8,41.0
+CMP-0015,7,Buscadores,6.2,10.0,15,viernes,2,32.9,14.8
+CMP-0016,6,Redes sociales,5.9,35.0,20,lunes,8,40.7,17.9
+CMP-0017,1,Buscadores,6.2,39.0,0,lunes,3,43.7,21.4
+CMP-0018,8,Redes sociales,14.3,40.0,10,miércoles,1,64.0,30.1
+CMP-0019,9,TV y radio,40.5,30.0,20,domingo,4,111.2,52.7
+CMP-0020,12,Email,9.3,31.0,0,lunes,1,64.4,29.2
+CMP-0021,12,Email,2.7,43.0,0,martes,3,28.4,11.9
+CMP-0022,6,Buscadores,4.3,30.0,15,lunes,7,38.2,15.7
+CMP-0023,12,TV y radio,11.7,24.0,10,miércoles,3,69.1,32.7
+CMP-0024,7,TV y radio,13.8,36.0,0,domingo,6,46.1,20.4
+CMP-0025,8,Email,9.4,30.0,10,viernes,4,33.6,14.9
+CMP-0026,8,Redes sociales,12.3,39.0,0,jueves,3,65.6,29.3
+CMP-0027,12,Buscadores,10.0,27.0,10,martes,6,74.0,33.0
+CMP-0028,9,Redes sociales,22.5,40.0,15,miércoles,5,116.2,52.0
+CMP-0029,2,Redes sociales,8.0,8.0,15,jueves,3,20.4,8.5
+CMP-0030,1,Email,7.2,8.0,0,martes,2,15.7,6.8
+CMP-0031,5,Email,16.0,10.0,20,viernes,8,39.0,18.7
+CMP-0032,7,TV y radio,7.7,28.0,0,domingo,2,36.0,15.7
+CMP-0033,9,Redes sociales,15.2,34.0,20,martes,8,71.7,31.2
+CMP-0034,6,Buscadores,12.8,15.0,10,martes,4,69.3,31.0
+CMP-0035,7,Buscadores,11.0,13.0,20,lunes,8,60.9,26.2
+CMP-0036,12,Redes sociales,31.1,40.0,0,sábado,3,128.4,57.8
+CMP-0037,5,Redes sociales,8.3,36.0,0,jueves,5,40.7,18.3
+CMP-0038,6,Buscadores,41.3,32.0,10,martes,5,224.5,101.4
+CMP-0039,7,Redes sociales,10.5,26.0,0,martes,3,52.8,26.6
+CMP-0040,6,Email,5.6,23.0,0,lunes,2,25.0,11.4
+CMP-0041,12,Buscadores,12.5,7.0,15,jueves,5,46.1,21.7
+CMP-0042,12,TV y radio,10.1,14.0,20,viernes,6,53.3,25.7
+CMP-0043,7,Email,7.6,41.0,0,martes,3,38.7,16.4
+CMP-0044,6,Redes sociales,15.2,20.0,20,lunes,7,76.5,33.9
+CMP-0045,8,TV y radio,26.7,34.0,20,jueves,6,110.0,50.1
+CMP-0046,3,TV y radio,13.3,34.0,20,viernes,2,61.7,28.8
+CMP-0047,6,Buscadores,21.7,,15,miércoles,8,104.4,46.8
+CMP-0048,3,Redes sociales,24.0,14.0,15,martes,1,71.4,30.9
+CMP-0049,2,Email,28.4,33.0,10,martes,6,49.9,23.6
+CMP-0050,2,Redes sociales,16.5,10.0,15,sábado,4,39.6,18.0
+CMP-0051,8,Redes sociales,27.2,26.0,30,domingo,6,129.3,56.3
+CMP-0052,1,Redes sociales,3.9,41.0,0,sábado,7,24.5,12.3
+CMP-0053,8,Email,9.9,34.0,10,jueves,6,33.9,15.5
+CMP-0054,6,Email,7.1,36.0,0,sábado,6,32.0,14.9
+CMP-0055,5,Email,12.9,10.0,30,miércoles,7,49.3,22.6
+CMP-0056,10,Email,8.5,14.0,10,lunes,6,27.0,12.6
+CMP-0057,7,Buscadores,10.9,17.0,15,miércoles,7,61.1,27.6
+CMP-0058,9,Buscadores,37.1,18.0,20,viernes,4,179.4,74.1
+CMP-0059,9,Redes sociales,10.8,14.0,30,viernes,2,65.4,30.2
+CMP-0060,1,Redes sociales,15.4,44.0,0,domingo,2,56.9,25.5
+CMP-0061,3,Email,10.4,13.0,20,domingo,5,38.1,15.7
+CMP-0062,7,Buscadores,12.6,34.0,20,martes,5,76.4,35.7
+CMP-0063,12,Buscadores,12.0,29.0,0,lunes,1,97.6,40.5
+CMP-0064,2,Email,15.7,30.0,20,martes,2,49.2,22.4
+CMP-0065,2,Email,24.1,15.0,10,domingo,8,62.8,26.1
+CMP-0066,12,Buscadores,32.2,18.0,15,sábado,6,264.4,115.8
+CMP-0067,12,Buscadores,14.4,30.0,10,lunes,7,134.8,60.3
+CMP-0068,3,Redes sociales,17.1,18.0,0,martes,2,52.9,24.1
+CMP-0069,5,Redes sociales,6.0,34.0,0,jueves,1,46.0,21.6
+CMP-0070,8,Buscadores,11.4,8.0,0,viernes,3,32.4,14.7
+CMP-0071,3,Redes sociales,21.1,9.0,0,domingo,7,42.4,18.4
+CMP-0072,4,Buscadores,20.2,35.0,15,sábado,5,90.2,41.0
+CMP-0073,5,TV y radio,21.8,31.0,10,martes,7,91.4,42.2
+CMP-0074,8,Redes sociales,20.4,8.0,0,lunes,4,45.4,20.9
+CMP-0075,4,Redes sociales,16.1,42.0,15,viernes,4,119.7,51.8
+CMP-0076,5,Redes sociales,24.7,7.0,15,jueves,5,42.1,18.0
+CMP-0077,4,Redes sociales,14.3,44.0,10,domingo,8,83.7,39.3
+CMP-0078,10,Email,9.7,35.0,30,viernes,4,48.9,23.0
+CMP-0079,2,Buscadores,14.7,45.0,10,jueves,5,85.0,37.9
+CMP-0080,3,Email,2.1,44.0,20,miércoles,8,13.6,5.7
+CMP-0081,3,Email,15.1,19.0,0,lunes,3,55.6,23.8
+CMP-0082,11,Buscadores,2.0,36.0,15,domingo,7,32.2,15.6
+CMP-0083,12,TV y radio,6.9,15.0,30,sábado,5,44.9,20.7
+CMP-0084,7,Redes sociales,15.7,25.0,20,martes,8,77.7,37.0
+CMP-0085,2,Redes sociales,16.0,16.0,15,viernes,4,42.2,19.4
+CMP-0086,10,Redes sociales,6.0,25.0,15,miércoles,6,35.6,14.9
+CMP-0087,6,Email,7.8,41.0,10,jueves,3,31.4,15.3
+CMP-0088,11,Buscadores,27.3,24.0,15,sábado,6,120.7,59.5
+CMP-0089,5,Redes sociales,9.0,10.0,20,sábado,3,35.3,16.7
+CMP-0090,12,Buscadores,46.1,19.0,30,martes,5,357.4,160.1
+CMP-0091,10,Redes sociales,12.0,37.0,10,miércoles,7,55.9,24.6
+CMP-0092,3,Email,15.3,27.0,0,sábado,4,51.5,22.9
+CMP-0093,9,Buscadores,31.7,28.0,15,domingo,4,157.1,67.3
+CMP-0094,4,Buscadores,13.0,23.0,0,lunes,3,63.6,31.6
+CMP-0095,5,Redes sociales,6.6,18.0,0,sábado,6,27.8,11.9
+CMP-0096,4,Email,11.2,30.0,10,jueves,5,38.1,17.6
+CMP-0097,9,Buscadores,11.7,31.0,15,viernes,5,95.4,41.8
+CMP-0098,4,Redes sociales,5.3,42.0,0,lunes,1,28.6,13.9
+CMP-0099,8,Redes sociales,10.3,31.0,0,viernes,1,63.4,28.8
+CMP-0100,7,TV y radio,12.3,45.0,0,viernes,1,48.5,21.8
+CMP-0101,10,TV y radio,33.4,39.0,20,viernes,7,107.8,46.3
+CMP-0102,12,Email,12.3,10.0,15,sábado,7,49.3,24.3
+CMP-0103,1,Redes sociales,10.1,22.0,0,domingo,1,46.2,21.0
+CMP-0104,12,TV y radio,18.1,22.0,0,sábado,1,82.2,39.5
+CMP-0105,2,Email,13.7,7.0,15,sábado,7,25.3,11.2
+CMP-0106,7,Email,17.4,14.0,0,domingo,5,38.0,16.6
+CMP-0107,5,Buscadores,6.6,36.0,15,viernes,3,56.6,24.1
+CMP-0108,8,Redes sociales,6.4,20.0,10,viernes,5,31.3,14.6
+CMP-0109,9,Redes sociales,23.3,,30,jueves,2,66.6,28.9
+CMP-0110,11,TV y radio,15.0,18.0,0,sábado,2,58.2,24.7
+CMP-0111,5,Buscadores,5.1,17.0,15,lunes,3,40.5,20.0
+CMP-0112,12,Redes sociales,15.7,13.0,0,jueves,8,69.7,30.7
+CMP-0113,4,Redes sociales,15.8,10.0,30,miércoles,7,45.1,19.5
+CMP-0114,3,Buscadores,4.8,36.0,30,domingo,2,39.0,17.9
+CMP-0115,5,Redes sociales,13.8,39.0,15,lunes,5,85.2,41.1
+CMP-0116,7,TV y radio,29.9,26.0,10,viernes,8,93.1,40.4
+CMP-0117,9,Email,15.0,31.0,0,martes,8,41.7,20.1
+CMP-0118,10,Email,17.5,42.0,20,domingo,7,67.2,30.8
+CMP-0119,3,Buscadores,5.2,39.0,15,sábado,2,37.0,16.9
+CMP-0120,4,Email,14.6,8.0,0,martes,2,32.3,14.2
+CMP-0121,12,Buscadores,10.0,44.0,10,domingo,2,93.3,43.7
+CMP-0122,6,Email,9.0,9.0,10,jueves,2,25.8,12.2
+CMP-0123,3,Redes sociales,20.2,8.0,20,domingo,2,49.6,22.4
+CMP-0124,12,Buscadores,29.2,22.0,15,sábado,3,255.8,110.6
+CMP-0125,6,Redes sociales,35.2,36.0,15,lunes,5,156.4,63.4
+CMP-0126,12,Buscadores,26.4,10.0,15,martes,4,129.8,63.6
+CMP-0127,12,Redes sociales,11.2,18.0,0,miércoles,4,68.5,30.6
+CMP-0128,11,Redes sociales,14.8,17.0,10,martes,2,74.9,35.9
+CMP-0129,7,Redes sociales,19.0,22.0,0,lunes,2,72.4,31.3
+CMP-0130,10,Buscadores,12.9,45.0,20,domingo,8,86.0,41.0
+CMP-0131,12,Redes sociales,13.0,19.0,10,domingo,5,99.2,46.6
+CMP-0132,4,TV y radio,31.5,15.0,10,jueves,2,63.8,29.9
+CMP-0133,1,Buscadores,11.6,11.0,0,martes,7,42.8,19.5
+CMP-0134,4,Redes sociales,7.7,14.0,0,martes,7,29.0,13.0
+CMP-0135,8,Buscadores,9.4,12.0,15,domingo,8,50.1,22.2
+CMP-0136,7,Redes sociales,17.6,29.0,0,miércoles,2,62.9,28.6
+CMP-0137,1,TV y radio,19.2,23.0,0,lunes,6,55.7,27.1
+CMP-0138,7,Buscadores,14.7,26.0,20,miércoles,8,93.8,41.1
+CMP-0139,3,Email,17.9,39.0,10,jueves,7,50.5,23.0
+CMP-0140,7,Redes sociales,9.6,29.0,10,viernes,2,52.2,22.4
+CMP-0141,7,Buscadores,18.9,13.0,10,miércoles,8,61.1,28.8
+CMP-0142,8,Buscadores,15.1,21.0,20,domingo,4,62.7,30.9
+CMP-0143,5,TV y radio,9.1,19.0,10,viernes,4,35.8,16.3
+CMP-0144,5,Buscadores,28.5,39.0,20,domingo,5,183.7,78.3
+CMP-0145,9,Buscadores,8.9,18.0,30,miércoles,7,68.5,30.9
+CMP-0146,9,Redes sociales,4.4,12.0,15,viernes,1,22.5,10.3
+CMP-0147,10,Redes sociales,6.4,35.0,10,miércoles,5,27.6,13.1
+CMP-0148,5,Buscadores,6.5,23.0,15,viernes,7,42.7,17.8
+CMP-0149,6,Buscadores,12.4,10.0,10,sábado,5,60.6,29.0
+CMP-0150,4,Redes sociales,10.2,33.0,10,miércoles,3,43.5,20.5
+CMP-0151,7,TV y radio,15.7,15.0,10,domingo,1,52.1,23.0
+CMP-0152,2,TV y radio,27.8,40.0,10,domingo,5,61.3,30.6
+CMP-0153,6,Redes sociales,14.7,39.0,0,domingo,6,67.4,28.7
+CMP-0154,3,Buscadores,14.5,21.0,10,martes,5,72.6,32.0
+CMP-0155,7,Redes sociales,15.3,28.0,0,sábado,8,68.7,29.8
+CMP-0156,11,Email,17.4,29.0,10,lunes,5,81.4,36.0
+CMP-0157,12,Redes sociales,3.4,32.0,15,lunes,5,34.4,15.8
+CMP-0158,6,Email,9.6,9.0,30,domingo,1,22.4,10.7
+CMP-0159,1,Email,3.2,19.0,0,martes,5,14.7,6.7
+CMP-0160,3,Email,12.3,13.0,15,domingo,2,28.4,13.6
+CMP-0161,2,Redes sociales,12.0,34.0,10,jueves,6,51.9,23.0
+CMP-0162,10,TV y radio,36.0,9.0,0,miércoles,2,84.2,36.8
+CMP-0163,12,Redes sociales,24.5,27.0,0,lunes,8,158.9,67.1
+CMP-0164,7,Redes sociales,13.6,35.0,0,viernes,3,66.0,29.5
+CMP-0165,3,Buscadores,8.9,43.0,0,sábado,4,59.8,25.9
+CMP-0166,1,Buscadores,16.1,18.0,0,jueves,2,51.5,23.8
+CMP-0167,12,TV y radio,13.9,7.0,10,sábado,2,30.5,14.2
+CMP-0168,4,TV y radio,19.2,35.0,10,miércoles,8,87.6,38.9
+CMP-0169,2,Redes sociales,21.7,7.0,0,jueves,3,26.3,12.2
+CMP-0170,3,TV y radio,13.8,9.0,0,miércoles,5,25.4,11.4
+CMP-0171,4,Redes sociales,19.5,45.0,0,viernes,8,71.5,34.3
+CMP-0172,8,Buscadores,18.0,40.0,10,lunes,5,85.8,40.7
+CMP-0173,11,Redes sociales,6.8,34.0,10,jueves,1,44.6,19.6
+CMP-0174,4,TV y radio,34.4,39.0,10,jueves,3,111.9,48.6
+CMP-0175,9,Redes sociales,18.2,9.0,0,jueves,4,33.2,15.8
+CMP-0176,1,Redes sociales,12.8,10.0,0,jueves,3,30.9,13.6
+CMP-0177,1,Buscadores,7.6,18.0,30,viernes,2,48.7,22.7
+CMP-0178,1,TV y radio,11.5,7.0,0,jueves,5,22.2,10.1
+CMP-0179,12,TV y radio,13.9,41.0,0,martes,4,77.2,32.7
+CMP-0180,7,Email,16.6,9.0,0,martes,3,30.3,13.2
+CMP-0181,10,TV y radio,10.9,28.0,30,viernes,4,62.6,27.4
+CMP-0182,1,TV y radio,25.0,40.0,15,domingo,3,98.2,40.6
+CMP-0183,1,Buscadores,5.7,35.0,15,sábado,2,45.0,21.2
+CMP-0184,11,Redes sociales,10.6,,30,viernes,4,68.7,32.8
+CMP-0185,2,Email,12.8,25.0,0,domingo,8,35.2,16.6
+CMP-0186,2,Email,52.0,28.0,30,domingo,5,119.4,55.0
+CMP-0187,7,Buscadores,5.3,36.0,0,jueves,5,35.4,18.1
+CMP-0188,8,Redes sociales,29.0,23.0,15,lunes,8,92.6,42.5
+CMP-0189,3,Email,13.1,18.0,10,viernes,5,35.7,16.7
+CMP-0190,6,Redes sociales,15.4,38.0,10,viernes,2,84.1,36.7
+CMP-0191,9,TV y radio,20.6,41.0,30,martes,4,100.1,44.7
+CMP-0192,6,Redes sociales,15.7,26.0,0,sábado,4,62.6,29.3
+CMP-0193,5,Redes sociales,10.9,8.0,30,domingo,4,37.5,16.5
+CMP-0194,1,TV y radio,45.9,26.0,10,miércoles,2,126.9,55.6
+CMP-0195,6,Redes sociales,9.1,41.0,15,jueves,1,56.6,26.7
+CMP-0196,10,Redes sociales,23.7,45.0,30,martes,3,135.3,63.0
+CMP-0197,8,Buscadores,8.2,22.0,0,martes,8,48.4,24.6
+CMP-0198,11,TV y radio,18.6,12.0,30,martes,6,67.9,32.6
+CMP-0199,2,Redes sociales,6.3,29.0,15,miércoles,7,36.6,17.3
+CMP-0200,1,Redes sociales,15.8,39.0,15,martes,2,80.5,36.5
+CMP-0201,7,Email,28.6,43.0,0,martes,4,84.5,40.2
+CMP-0202,3,TV y radio,18.4,9.0,10,jueves,5,38.8,18.1
+CMP-0203,8,Buscadores,10.7,18.0,15,viernes,4,60.5,29.2
+CMP-0204,11,Redes sociales,6.1,25.0,10,miércoles,4,40.4,18.2
+CMP-0205,5,Redes sociales,10.5,10.0,0,jueves,3,32.9,14.7
+CMP-0206,7,Redes sociales,4.6,41.0,0,martes,1,43.6,19.4
+CMP-0207,9,Redes sociales,6.9,11.0,20,viernes,7,26.9,12.2
+CMP-0208,2,Email,13.7,32.0,0,viernes,8,34.5,16.9
+CMP-0209,11,Redes sociales,26.5,,15,domingo,1,132.4,62.1
+CMP-0210,3,Buscadores,60.0,33.0,30,lunes,4,262.1,121.6
+CMP-0211,10,Email,8.4,36.0,0,sábado,5,41.2,19.1
+CMP-0212,8,Buscadores,28.4,17.0,0,miércoles,7,92.1,41.7
+CMP-0213,2,Redes sociales,13.9,39.0,15,lunes,8,56.7,24.0
+CMP-0214,9,TV y radio,17.6,23.0,0,viernes,4,43.9,19.1
+CMP-0215,3,Email,15.6,9.0,15,martes,6,28.7,13.7
+CMP-0216,8,Email,12.5,21.0,15,martes,8,36.2,15.9
+CMP-0217,12,Redes sociales,12.8,20.0,15,domingo,7,92.9,40.9
+CMP-0218,12,Redes sociales,9.4,27.0,10,martes,3,100.9,47.8
+CMP-0219,11,TV y radio,8.3,17.0,15,jueves,7,42.5,18.5
+CMP-0220,6,Buscadores,4.8,25.0,15,martes,4,30.8,14.1
+CMP-0221,7,Redes sociales,17.8,23.0,0,lunes,1,67.6,33.0
+CMP-0222,4,Buscadores,10.2,19.0,15,lunes,7,56.3,25.0
+CMP-0223,12,Email,8.4,34.0,20,lunes,7,73.0,32.8
+CMP-0224,6,TV y radio,19.4,18.0,15,jueves,3,58.3,26.8
+CMP-0225,10,Redes sociales,19.3,36.0,10,jueves,4,76.0,34.6
+CMP-0226,5,TV y radio,21.4,16.0,10,lunes,3,55.7,26.2
+CMP-0227,9,Redes sociales,8.1,40.0,0,miércoles,1,47.7,21.0
+CMP-0228,3,Buscadores,25.0,21.0,0,martes,8,97.6,44.5
+CMP-0229,9,Email,31.0,8.0,0,jueves,1,39.9,18.0
+CMP-0230,1,Redes sociales,16.1,12.0,30,domingo,5,58.8,26.3
+CMP-0231,2,Redes sociales,21.5,38.0,0,viernes,1,50.7,24.4
+CMP-0232,5,Buscadores,25.3,41.0,20,domingo,6,150.4,71.5
+CMP-0233,6,TV y radio,37.8,15.0,0,martes,8,52.3,26.5
+CMP-0234,9,Buscadores,17.3,30.0,0,martes,6,83.6,37.0
+CMP-0235,5,TV y radio,27.5,29.0,10,sábado,5,92.1,44.5
+CMP-0236,1,TV y radio,26.2,12.0,10,miércoles,7,61.7,27.9
+CMP-0237,4,Buscadores,6.2,24.0,20,sábado,8,55.1,24.6
+CMP-0238,6,Email,18.3,34.0,30,jueves,7,79.2,34.9
+CMP-0239,7,Redes sociales,5.3,44.0,20,martes,2,43.1,20.8
+CMP-0240,8,Redes sociales,7.4,40.0,0,sábado,5,44.4,20.2
+CMP-0241,3,TV y radio,41.9,10.0,20,jueves,7,93.7,39.2
+CMP-0242,8,Email,19.9,16.0,0,sábado,3,59.2,24.7
+CMP-0243,8,Redes sociales,29.3,24.0,30,jueves,6,145.6,63.0
+CMP-0244,10,Buscadores,10.2,12.0,10,lunes,1,44.1,19.7
+CMP-0245,7,Email,6.0,29.0,10,viernes,8,22.0,10.5
+CMP-0246,10,TV y radio,16.6,7.0,0,lunes,5,29.3,12.9
+CMP-0247,3,Email,12.8,11.0,0,viernes,6,30.5,14.0
+CMP-0248,9,Buscadores,12.6,8.0,0,miércoles,7,44.7,19.8
+CMP-0249,1,Buscadores,23.7,18.0,30,sábado,2,105.0,49.2
+CMP-0250,2,Buscadores,9.7,36.0,20,domingo,4,51.5,23.6
+CMP-0251,11,Email,14.8,,30,miércoles,7,66.0,29.7
+CMP-0252,6,TV y radio,10.6,45.0,0,domingo,2,43.0,19.3
+CMP-0253,8,Buscadores,15.7,17.0,15,lunes,7,61.1,27.1
+CMP-0254,8,Redes sociales,12.0,8.0,0,lunes,3,28.2,13.2
+CMP-0255,9,Redes sociales,7.7,20.0,10,domingo,5,26.6,12.9
+CMP-0256,3,Email,10.4,36.0,10,viernes,5,40.9,17.1
+CMP-0257,3,TV y radio,17.1,11.0,0,jueves,6,51.1,20.5
+CMP-0258,1,Redes sociales,10.2,9.0,15,martes,7,42.1,18.7
+CMP-0259,11,Redes sociales,34.7,40.0,0,miércoles,3,115.9,56.3
+CMP-0260,3,Buscadores,11.3,30.0,10,viernes,2,66.1,31.3
+CMP-0261,7,Redes sociales,10.4,20.0,15,sábado,4,50.4,22.3
+CMP-0262,6,TV y radio,5.4,36.0,0,domingo,5,36.4,15.5
+CMP-0263,2,Redes sociales,7.0,39.0,30,miércoles,7,35.3,17.1
+CMP-0264,5,Redes sociales,10.2,21.0,10,jueves,7,43.1,19.7
+CMP-0265,1,TV y radio,12.8,28.0,20,martes,3,71.5,32.2
+CMP-0266,3,Redes sociales,27.5,7.0,15,lunes,8,51.9,22.6
+CMP-0267,2,Redes sociales,10.9,18.0,15,jueves,1,42.3,19.6
+CMP-0268,10,Redes sociales,26.0,30.0,15,viernes,1,77.7,38.2
+CMP-0269,7,Redes sociales,12.5,14.0,20,lunes,1,49.8,21.9
+CMP-0270,12,Redes sociales,12.3,45.0,15,miércoles,8,79.0,34.0
+CMP-0271,6,Redes sociales,11.4,44.0,0,viernes,2,45.0,20.6
+CMP-0272,3,Redes sociales,12.0,17.0,0,sábado,5,49.4,22.0
+CMP-0273,8,Redes sociales,33.7,22.0,15,domingo,7,111.6,51.9
+CMP-0274,12,Buscadores,3.0,14.0,0,miércoles,7,25.3,12.0
+CMP-0275,7,Email,3.6,26.0,0,miércoles,8,16.2,7.0
+CMP-0276,1,Buscadores,8.7,11.0,0,domingo,1,34.6,15.4
+CMP-0277,4,Redes sociales,12.1,22.0,10,viernes,4,57.2,25.4
+CMP-0278,12,Buscadores,18.2,28.0,0,martes,5,160.5,67.7
+CMP-0279,7,TV y radio,25.4,30.0,15,viernes,6,56.1,26.9
+CMP-0280,12,TV y radio,15.2,30.0,20,martes,5,80.1,37.4
+CMP-0281,7,Redes sociales,22.1,,20,jueves,5,78.9,35.6
+CMP-0282,1,Redes sociales,22.3,37.0,10,miércoles,3,89.0,41.6
+CMP-0283,11,Redes sociales,13.4,33.0,10,domingo,1,91.7,40.1
+CMP-0284,10,Redes sociales,21.4,36.0,15,lunes,4,97.7,44.8
+CMP-0285,9,Buscadores,14.1,25.0,10,sábado,3,73.1,34.9
+CMP-0286,12,Buscadores,8.6,41.0,15,martes,5,89.0,40.3
+CMP-0287,3,Redes sociales,18.2,22.0,0,lunes,7,61.6,27.8
+CMP-0288,11,Buscadores,12.8,38.0,30,viernes,5,161.6,70.1
+CMP-0289,3,Buscadores,12.0,14.0,0,viernes,5,46.1,20.6
+CMP-0290,12,Redes sociales,29.0,16.0,20,lunes,1,140.3,62.3
+CMP-0291,3,TV y radio,4.5,27.0,15,lunes,6,26.6,11.9
+CMP-0292,7,Redes sociales,5.1,28.0,0,lunes,4,35.0,16.1
+CMP-0293,10,TV y radio,9.4,36.0,15,miércoles,1,41.8,19.7
+CMP-0294,1,Redes sociales,9.6,18.0,0,lunes,2,43.9,19.7
+CMP-0295,1,TV y radio,16.5,41.0,20,viernes,7,85.0,39.3
+CMP-0296,11,TV y radio,7.8,19.0,15,lunes,8,46.6,19.5
+CMP-0297,1,TV y radio,10.6,27.0,0,sábado,5,40.7,17.3
+CMP-0298,8,TV y radio,11.5,43.0,0,domingo,8,44.4,19.6
+CMP-0299,12,Email,52.4,28.0,20,sábado,2,201.5,89.9
+CMP-0300,8,Email,35.4,33.0,0,domingo,3,101.9,46.5
+CMP-0301,6,Email,9.4,42.0,20,domingo,8,44.4,21.5
+CMP-0302,6,Redes sociales,9.6,45.0,20,lunes,2,59.8,27.5
+CMP-0303,8,Buscadores,6.0,26.0,15,miércoles,6,40.0,18.1
+CMP-0304,7,Buscadores,3.8,23.0,0,sábado,2,24.5,11.0
+CMP-0305,7,TV y radio,17.9,14.0,15,miércoles,3,72.7,32.3
+CMP-0306,2,Buscadores,6.6,27.0,30,sábado,4,47.9,20.8
+CMP-0307,8,Buscadores,11.4,42.0,0,sábado,3,59.0,27.7
+CMP-0308,9,Email,4.6,25.0,10,domingo,7,27.1,12.7
+CMP-0309,9,Redes sociales,7.6,20.0,0,miércoles,8,37.3,15.7
+CMP-0310,1,Redes sociales,13.1,11.0,10,miércoles,5,45.7,20.0
+CMP-0311,9,Buscadores,14.9,22.0,15,lunes,5,81.2,37.6
+CMP-0312,9,Buscadores,15.4,16.0,10,martes,1,68.2,31.2
+CMP-0313,3,Redes sociales,5.4,45.0,15,martes,2,36.0,16.5
+CMP-0314,11,Buscadores,20.0,27.0,10,jueves,1,111.1,50.4
+CMP-0315,7,Buscadores,7.4,12.0,0,miércoles,7,33.4,14.8
+CMP-0316,6,Redes sociales,17.5,9.0,0,sábado,2,46.0,18.4
+CMP-0317,9,Buscadores,11.9,40.0,20,sábado,3,116.1,52.3
+CMP-0318,7,Email,5.3,43.0,15,sábado,7,30.6,13.4
+CMP-0319,7,Redes sociales,9.9,,10,lunes,6,34.0,16.8
+CMP-0320,4,TV y radio,23.8,11.0,20,jueves,5,55.4,25.8
+CMP-0321,12,TV y radio,27.7,10.0,0,sábado,1,113.2,48.4
+CMP-0322,12,Buscadores,11.0,14.0,0,martes,5,80.0,35.6
+CMP-0323,2,Redes sociales,30.1,36.0,0,miércoles,5,58.0,32.8
+CMP-0324,9,Buscadores,22.0,36.0,30,sábado,3,163.6,71.9
+CMP-0325,1,TV y radio,16.5,39.0,15,sábado,6,66.9,27.6
+CMP-0326,5,Email,18.8,10.0,15,sábado,8,30.4,15.3
+CMP-0327,12,TV y radio,61.3,12.0,0,jueves,3,140.8,59.3
+CMP-0328,3,Buscadores,38.9,42.0,0,miércoles,3,142.9,74.6
+CMP-0329,5,Email,5.7,43.0,15,miércoles,3,24.3,10.5
+CMP-0330,3,Redes sociales,6.9,35.0,10,viernes,7,34.1,15.5
+CMP-0331,9,Email,29.2,11.0,30,miércoles,1,61.1,31.2
+CMP-0332,6,Redes sociales,6.4,9.0,20,miércoles,8,22.8,10.2
+CMP-0333,8,Email,5.4,9.0,10,martes,7,17.1,7.3
+CMP-0334,12,TV y radio,14.4,33.0,15,jueves,4,74.0,33.0
+CMP-0335,7,Redes sociales,15.4,39.0,30,martes,5,100.6,44.4
+CMP-0336,9,Email,11.3,31.0,10,jueves,8,36.7,17.0
+CMP-0337,2,Redes sociales,8.1,17.0,15,domingo,7,35.7,17.8
+CMP-0338,3,Email,8.0,36.0,30,sábado,3,35.1,15.4
+CMP-0339,12,Redes sociales,7.8,9.0,0,jueves,1,29.6,12.3
+CMP-0340,11,TV y radio,11.4,39.0,20,domingo,6,80.7,34.7
+CMP-0341,8,Redes sociales,47.2,41.0,0,domingo,2,165.3,83.0
+CMP-0342,5,TV y radio,22.9,35.0,15,jueves,1,81.7,40.1
+CMP-0343,3,TV y radio,32.6,,20,sábado,8,120.7,57.2
+CMP-0344,11,Buscadores,8.9,29.0,15,miércoles,4,76.9,37.9
+CMP-0345,10,Email,10.7,25.0,10,domingo,6,35.1,15.9
+CMP-0346,3,Email,7.8,19.0,15,miércoles,2,29.6,13.2
+CMP-0347,8,TV y radio,3.8,42.0,0,martes,1,16.1,7.9
+CMP-0348,8,Redes sociales,5.2,34.0,0,lunes,1,25.4,11.1
+CMP-0349,6,Buscadores,4.0,14.0,0,sábado,3,25.6,11.3
+CMP-0350,12,Redes sociales,3.1,44.0,15,miércoles,1,30.0,14.0
+CMP-0351,2,Email,5.9,9.0,10,sábado,4,13.5,6.2
+CMP-0352,4,Redes sociales,26.6,29.0,0,lunes,3,66.9,33.5
+CMP-0353,2,Buscadores,11.7,14.0,20,jueves,5,50.6,23.4
+CMP-0354,9,Buscadores,26.0,32.0,10,miércoles,5,122.0,55.4
+CMP-0355,8,Buscadores,15.4,23.0,10,jueves,3,103.8,46.8
+CMP-0356,12,Buscadores,19.2,24.0,10,martes,4,153.0,68.2
+CMP-0357,7,Email,7.0,33.0,0,lunes,1,35.3,15.8
+CMP-0358,2,Email,16.4,36.0,15,miércoles,3,44.4,20.4
+CMP-0359,6,Buscadores,18.6,21.0,10,jueves,8,94.3,42.2
+CMP-0360,2,Buscadores,8.5,45.0,0,sábado,8,40.8,17.6
+CMP-0361,9,TV y radio,26.9,26.0,30,jueves,4,95.0,43.4
+CMP-0362,9,Redes sociales,16.9,13.0,20,martes,8,57.4,25.7
+CMP-0363,11,Redes sociales,8.6,7.0,15,martes,5,26.9,12.3
+CMP-0364,5,Redes sociales,6.1,14.0,20,viernes,2,24.2,11.4
+CMP-0365,4,Email,5.9,33.0,30,jueves,7,29.0,12.8
+CMP-0366,1,Buscadores,12.6,28.0,10,domingo,4,52.5,24.5
+CMP-0367,5,Email,14.6,20.0,15,jueves,5,43.1,19.2
+CMP-0368,6,Email,7.5,25.0,15,jueves,6,36.9,16.7
+CMP-0369,10,Redes sociales,12.2,39.0,0,lunes,3,42.5,19.6
+CMP-0370,10,TV y radio,27.0,29.0,0,martes,6,61.7,28.5
+CMP-0371,2,Email,17.4,9.0,0,sábado,5,31.5,14.7
+CMP-0372,4,Redes sociales,30.4,8.0,15,miércoles,3,51.9,25.6
+CMP-0373,7,Buscadores,25.8,25.0,20,miércoles,3,145.4,64.8
+CMP-0374,5,Redes sociales,6.6,22.0,20,viernes,6,43.0,19.3
+CMP-0375,1,Redes sociales,33.0,40.0,10,lunes,2,142.4,62.1
+CMP-0376,11,Redes sociales,8.7,29.0,0,jueves,1,41.3,19.3
+CMP-0377,9,TV y radio,36.0,36.0,10,miércoles,8,116.8,48.3
+CMP-0378,7,Buscadores,12.5,29.0,10,martes,3,59.2,27.4
+CMP-0379,4,Buscadores,9.4,20.0,30,miércoles,6,94.1,44.7
+CMP-0380,11,Email,4.1,32.0,20,jueves,6,23.9,11.4
+CMP-0381,1,Buscadores,10.8,31.0,30,martes,7,67.1,33.2
+CMP-0382,6,TV y radio,7.5,35.0,20,jueves,6,37.4,15.7
+CMP-0383,10,Email,21.4,14.0,30,sábado,6,54.2,23.0
+CMP-0384,12,Buscadores,29.8,32.0,10,martes,7,264.2,116.6
+CMP-0385,4,Buscadores,7.4,,0,domingo,8,55.8,26.5
+CMP-0386,8,TV y radio,23.0,37.0,0,viernes,1,73.5,30.5
+CMP-0387,3,Email,7.8,38.0,10,sábado,6,28.8,13.3
+CMP-0388,2,TV y radio,13.1,31.0,0,lunes,2,26.6,12.2
+CMP-0389,5,Redes sociales,19.1,43.0,0,sábado,8,78.6,33.3
+CMP-0390,11,TV y radio,18.7,27.0,30,miércoles,1,101.9,44.8
+CMP-0391,9,Email,34.1,7.0,0,viernes,2,41.9,17.1
+CMP-0392,6,Redes sociales,9.0,30.0,30,sábado,2,60.2,27.0
+CMP-0393,4,Buscadores,21.9,37.0,20,martes,5,137.4,63.7
+CMP-0394,2,Email,12.7,10.0,15,martes,1,25.5,11.9
+CMP-0395,4,Redes sociales,19.3,11.0,15,lunes,1,48.4,24.1
+CMP-0396,2,Buscadores,9.2,17.0,10,viernes,5,34.5,15.9
+CMP-0397,3,TV y radio,18.6,39.0,15,sábado,8,86.4,37.1
+CMP-0398,9,Redes sociales,11.2,27.0,0,miércoles,5,49.6,21.9
+CMP-0399,2,Buscadores,7.3,45.0,30,martes,4,62.9,28.6
+CMP-0400,1,Buscadores,17.9,41.0,10,miércoles,6,112.5,53.7
+CMP-0401,7,Redes sociales,17.7,28.0,0,miércoles,5,54.6,24.5
+CMP-0402,4,TV y radio,27.4,33.0,15,domingo,4,80.0,34.6
+CMP-0403,6,Email,30.2,19.0,15,lunes,5,73.6,32.7
+CMP-0404,2,Redes sociales,28.6,10.0,10,miércoles,1,45.1,20.3
+CMP-0405,3,TV y radio,15.4,22.0,15,viernes,2,60.9,28.8
+CMP-0406,6,TV y radio,24.0,30.0,0,martes,6,78.7,34.2
+CMP-0407,9,Redes sociales,8.3,14.0,15,domingo,3,35.7,19.0
+CMP-0408,5,TV y radio,19.5,15.0,0,domingo,1,52.0,23.2
+CMP-0409,7,Redes sociales,8.4,7.0,0,miércoles,1,22.8,9.1
+CMP-0410,7,TV y radio,50.7,,0,sábado,7,138.0,67.6
+CMP-0411,4,Email,14.9,42.0,10,sábado,3,60.4,27.8
+CMP-0412,4,Email,10.5,39.0,10,viernes,1,44.7,20.3
+CMP-0413,6,Redes sociales,24.6,21.0,10,martes,6,105.2,48.9
+CMP-0414,1,TV y radio,5.3,30.0,0,lunes,5,26.6,11.5
+CMP-0415,9,Redes sociales,3.6,44.0,0,miércoles,4,23.1,10.3
+CMP-0416,8,Redes sociales,19.3,30.0,10,lunes,8,71.8,32.4
+CMP-0417,4,Redes sociales,12.4,18.0,0,miércoles,3,51.8,22.6
+CMP-0418,5,Email,13.9,20.0,15,viernes,5,57.6,26.2
+CMP-0419,4,Redes sociales,5.4,35.0,30,viernes,6,48.2,18.7
+CMP-0420,8,TV y radio,18.9,24.0,10,martes,5,78.2,35.3
+CMP-0421,10,Email,39.9,39.0,30,lunes,2,102.7,46.2
+CMP-0422,2,Redes sociales,19.7,40.0,0,martes,6,56.0,27.7
+CMP-0423,5,Redes sociales,13.3,8.0,0,jueves,6,28.5,13.3
+CMP-0424,1,Redes sociales,9.2,35.0,15,sábado,1,49.6,21.3
+CMP-0425,6,Email,9.5,21.0,20,miércoles,2,52.5,25.5
+CMP-0426,3,TV y radio,5.3,27.0,20,miércoles,6,26.7,13.5
+CMP-0427,5,Redes sociales,14.0,17.0,0,jueves,1,44.8,20.3
+CMP-0428,6,TV y radio,31.8,21.0,20,lunes,8,104.4,44.3
+CMP-0429,4,Redes sociales,4.7,19.0,10,martes,1,19.3,8.8
+CMP-0430,5,TV y radio,13.0,8.0,10,lunes,8,24.2,11.2
+CMP-0431,10,TV y radio,9.6,37.0,0,jueves,6,41.3,20.6
+CMP-0432,10,Email,6.7,12.0,30,jueves,4,24.0,10.7
+CMP-0433,1,Email,12.4,21.0,0,viernes,3,34.8,15.3
+CMP-0434,5,TV y radio,5.4,14.0,20,viernes,3,26.0,12.9
+CMP-0435,11,Redes sociales,17.3,13.0,15,miércoles,6,95.6,41.1
+CMP-0436,7,Redes sociales,18.9,21.0,15,domingo,7,84.8,37.1
+CMP-0437,3,Redes sociales,10.3,42.0,15,domingo,2,57.3,24.6
+CMP-0438,8,Buscadores,2.7,43.0,20,lunes,5,30.9,13.6
+CMP-0439,2,Email,6.6,21.0,0,domingo,8,18.0,7.9
+CMP-0440,1,Email,25.1,26.0,0,martes,3,59.2,26.2
+CMP-0441,8,TV y radio,3.7,45.0,15,martes,6,21.6,9.4
+CMP-0442,7,Redes sociales,9.7,16.0,10,jueves,2,33.3,16.6
+CMP-0443,10,Email,5.9,43.0,0,lunes,7,21.2,10.4
+CMP-0444,5,Redes sociales,19.4,11.0,0,miércoles,2,36.1,17.0
+CMP-0445,11,Redes sociales,8.0,15.0,10,martes,3,45.3,20.7
+CMP-0446,6,Email,15.3,20.0,0,jueves,4,45.8,20.4
+CMP-0447,9,TV y radio,26.9,8.0,0,sábado,3,53.8,24.1
+CMP-0448,2,Email,36.1,38.0,30,domingo,2,97.2,41.8
+CMP-0449,2,Redes sociales,10.6,40.0,10,martes,6,49.4,21.2
+CMP-0450,10,Email,15.0,21.0,30,jueves,1,59.4,28.2
+CMP-0451,11,Redes sociales,4.9,39.0,30,jueves,8,49.9,22.4
+CMP-0452,12,TV y radio,39.2,37.0,0,miércoles,1,162.7,77.2
+CMP-0453,4,Email,7.6,38.0,15,viernes,3,41.2,18.9
+CMP-0454,1,Redes sociales,8.6,38.0,15,domingo,8,53.9,24.1
+CMP-0455,12,Redes sociales,11.8,29.0,15,miércoles,2,70.5,38.0
+CMP-0456,8,Redes sociales,4.7,11.0,0,lunes,1,18.8,7.6
+CMP-0457,3,TV y radio,22.1,43.0,0,domingo,6,59.9,26.4
+CMP-0458,10,Buscadores,21.4,30.0,0,domingo,1,86.7,40.6
+CMP-0459,11,Email,14.3,42.0,15,miércoles,8,76.1,31.4
+CMP-0460,4,Email,4.6,44.0,30,jueves,4,25.4,11.7
+CMP-0461,10,Buscadores,11.1,14.0,15,domingo,7,60.6,27.4
+CMP-0462,10,Redes sociales,18.7,22.0,15,jueves,2,89.0,41.5
+CMP-0463,7,TV y radio,6.2,14.0,30,jueves,2,26.8,11.2
+CMP-0464,8,Redes sociales,6.3,8.0,15,domingo,8,21.4,9.8
+CMP-0465,4,Buscadores,20.3,44.0,0,sábado,7,89.0,40.2
+CMP-0466,12,Email,14.1,43.0,20,jueves,8,89.5,38.3
+CMP-0467,12,Email,15.4,43.0,10,martes,3,78.7,34.7
+CMP-0468,12,TV y radio,58.6,41.0,0,jueves,4,222.6,101.4
+CMP-0469,9,Redes sociales,15.9,32.0,10,viernes,5,68.3,29.4
+CMP-0470,1,Buscadores,17.8,27.0,30,martes,4,155.3,62.2
+CMP-0471,5,Buscadores,60.0,45.0,0,jueves,2,216.2,96.7
+CMP-0472,6,Buscadores,10.6,28.0,10,viernes,4,62.0,28.0
+CMP-0473,12,Redes sociales,7.4,32.0,0,lunes,5,45.3,20.4
+CMP-0474,7,Redes sociales,15.5,15.0,0,jueves,1,53.4,22.7
+CMP-0475,7,Redes sociales,15.6,36.0,0,sábado,3,71.4,33.5
+CMP-0476,2,Redes sociales,8.7,38.0,15,martes,3,41.8,19.3
+CMP-0477,10,Buscadores,6.5,33.0,20,jueves,1,71.7,35.2
+CMP-0478,5,Email,48.0,26.0,0,viernes,1,123.1,59.4
+CMP-0479,2,Email,14.6,14.0,0,lunes,4,26.5,12.4
+CMP-0480,12,Buscadores,7.7,8.0,0,viernes,1,36.0,16.4
+CMP-0481,3,Buscadores,20.8,31.0,0,martes,3,116.7,48.6
+CMP-0482,1,Redes sociales,11.2,33.0,15,miércoles,5,53.7,23.8
+CMP-0483,1,Buscadores,10.3,37.0,15,viernes,7,84.4,40.1
+CMP-0484,6,Redes sociales,16.8,44.0,15,lunes,1,83.5,39.4
+CMP-0485,2,Redes sociales,5.5,26.0,10,lunes,4,28.8,12.2
+CMP-0486,11,Buscadores,14.8,39.0,15,jueves,1,146.8,63.1
+CMP-0487,7,Buscadores,37.8,34.0,0,domingo,4,199.7,90.6
+CMP-0488,4,Redes sociales,15.9,17.0,0,lunes,4,52.2,24.2
+CMP-0489,1,Buscadores,9.6,39.0,30,sábado,7,85.2,36.6
+CMP-0490,6,Buscadores,8.9,9.0,20,lunes,4,46.4,22.2
+CMP-0491,2,Email,9.4,30.0,30,jueves,8,44.8,20.0
+CMP-0492,12,Email,10.3,43.0,30,jueves,2,83.0,33.7
+CMP-0493,4,Email,9.6,32.0,15,jueves,1,42.8,19.3
+CMP-0494,6,Redes sociales,20.8,,30,lunes,1,108.5,51.3
+CMP-0495,1,Email,4.2,9.0,10,sábado,3,13.8,6.1
+CMP-0496,2,Buscadores,20.1,27.0,0,martes,2,60.0,27.9
+CMP-0497,3,Buscadores,9.6,37.0,0,sábado,1,44.3,21.6
+CMP-0498,1,Email,15.0,32.0,0,viernes,2,44.5,19.5
+CMP-0499,9,Buscadores,6.1,41.0,0,jueves,8,40.4,17.4
+CMP-0500,12,Buscadores,26.6,25.0,10,miércoles,7,162.6,75.1
+CMP-0501,12,Email,25.3,33.0,15,viernes,1,131.4,60.9
+CMP-0502,4,TV y radio,34.1,23.0,20,domingo,8,97.8,46.7
+CMP-0503,10,TV y radio,7.7,41.0,15,domingo,2,41.0,18.8
+CMP-0504,7,Buscadores,19.7,11.0,0,domingo,4,50.3,23.5
+CMP-0505,1,Buscadores,15.3,16.0,15,martes,3,67.0,32.0
+CMP-0506,2,Email,4.6,10.0,10,viernes,4,14.0,5.8
+CMP-0507,7,Redes sociales,11.8,34.0,0,miércoles,7,58.7,26.1
+CMP-0508,6,TV y radio,23.8,16.0,0,domingo,6,52.6,23.2
+CMP-0509,1,Buscadores,16.8,19.0,10,domingo,5,88.4,38.4
+CMP-0510,12,Redes sociales,13.3,39.0,0,domingo,6,122.0,53.4
+CMP-0511,9,Redes sociales,14.3,21.0,20,martes,6,63.8,29.6
+CMP-0512,7,TV y radio,46.6,12.0,20,miércoles,2,88.7,39.8
+CMP-0513,12,Redes sociales,25.0,7.0,15,viernes,4,68.5,31.6
+CMP-0514,12,Redes sociales,2.1,15.0,0,sábado,1,17.8,7.9
+CMP-0515,12,Redes sociales,9.9,42.0,20,miércoles,6,85.4,38.2
+CMP-0516,4,Redes sociales,10.9,28.0,15,lunes,4,54.8,25.4
+CMP-0517,11,Redes sociales,4.2,45.0,0,lunes,6,25.9,12.6
+CMP-0518,7,Email,12.7,15.0,15,viernes,5,34.4,15.5
+CMP-0519,9,Redes sociales,25.4,20.0,10,jueves,3,83.8,38.5
+CMP-0520,11,TV y radio,10.1,13.0,10,jueves,2,36.3,18.1
+CMP-0521,2,TV y radio,23.5,22.0,0,sábado,8,48.6,21.5
+CMP-0522,6,Buscadores,6.9,28.0,10,lunes,3,51.4,22.3
+CMP-0523,2,Redes sociales,8.0,38.0,0,sábado,1,37.2,14.9
+CMP-0524,4,Email,29.1,21.0,0,martes,3,77.6,36.0
+CMP-0525,5,Redes sociales,8.7,37.0,0,domingo,8,41.2,19.2
+CMP-0526,11,Buscadores,15.8,31.0,30,domingo,3,145.9,70.1
+CMP-0527,11,TV y radio,6.2,18.0,0,jueves,8,28.4,12.8
+CMP-0528,5,TV y radio,58.7,42.0,10,miércoles,4,174.0,78.3
+CMP-0529,4,Email,17.2,23.0,10,martes,7,56.3,26.7
+CMP-0530,7,Redes sociales,10.8,12.0,20,martes,6,46.3,21.2
+CMP-0531,11,Email,16.9,44.0,15,domingo,1,86.4,43.3
+CMP-0532,12,Email,5.2,42.0,30,martes,5,55.0,23.8
+CMP-0533,3,Buscadores,24.4,8.0,0,jueves,4,55.6,26.2
+CMP-0534,3,Email,9.9,42.0,0,jueves,2,39.6,18.0
+CMP-0535,9,Redes sociales,10.6,43.0,15,viernes,5,64.8,31.6
+CMP-0536,4,Redes sociales,8.9,39.0,10,sábado,1,43.4,20.3
+CMP-0537,3,Buscadores,8.5,16.0,20,jueves,6,47.2,21.7
+CMP-0538,1,Redes sociales,18.2,31.0,20,sábado,7,88.8,40.4
+CMP-0539,5,Redes sociales,14.0,27.0,10,jueves,1,68.6,30.4
+CMP-0540,5,TV y radio,28.3,31.0,30,jueves,4,104.3,44.1
+CMP-0541,7,TV y radio,19.0,31.0,15,martes,6,74.0,32.4
+CMP-0542,3,Buscadores,16.3,31.0,0,martes,1,86.9,37.6
+CMP-0543,9,TV y radio,14.9,27.0,10,jueves,4,43.1,18.2
+CMP-0544,9,TV y radio,73.1,33.0,0,lunes,3,158.2,69.9
+CMP-0545,6,Redes sociales,4.7,27.0,20,miércoles,1,31.6,14.4
+CMP-0546,3,Buscadores,25.6,7.0,0,jueves,7,56.5,24.4
+CMP-0547,7,Buscadores,27.3,8.0,10,jueves,4,92.6,39.9
+CMP-0548,9,Redes sociales,7.2,44.0,15,sábado,7,39.0,17.2
+CMP-0549,5,Email,45.7,42.0,0,domingo,5,91.6,44.8
+CMP-0550,4,Buscadores,21.8,29.0,0,sábado,8,65.7,31.1
+CMP-0551,7,Buscadores,21.5,13.0,15,lunes,8,79.0,36.4
+CMP-0552,5,Redes sociales,12.2,37.0,0,miércoles,5,53.3,23.3
+CMP-0553,5,Redes sociales,10.5,12.0,10,sábado,3,33.6,15.3
+CMP-0554,5,TV y radio,17.0,21.0,10,viernes,4,70.7,30.4
+CMP-0555,4,Redes sociales,15.2,,0,jueves,7,64.2,27.3
+CMP-0556,9,Redes sociales,27.8,7.0,0,jueves,4,48.2,20.6
+CMP-0557,6,Redes sociales,13.4,38.0,20,miércoles,5,72.7,31.1
+CMP-0558,6,Buscadores,6.9,26.0,30,viernes,2,66.3,31.8
+CMP-0559,8,Buscadores,19.7,19.0,0,martes,8,84.2,37.3
+CMP-0560,5,Buscadores,20.9,26.0,30,jueves,6,111.7,52.3
+CMP-0561,2,Redes sociales,17.8,7.0,15,martes,3,22.1,10.9
+CMP-0562,11,Redes sociales,18.8,24.0,15,viernes,5,94.5,43.6
+CMP-0563,1,TV y radio,16.3,27.0,15,domingo,4,75.0,31.9
+CMP-0564,7,Email,6.9,20.0,15,jueves,2,42.2,18.7
+CMP-0565,4,Email,7.1,39.0,20,miércoles,7,41.6,17.1
+CMP-0566,3,Email,4.5,16.0,10,domingo,8,16.8,7.6
+CMP-0567,1,Email,13.8,12.0,10,viernes,7,33.3,13.4
+CMP-0568,11,Redes sociales,11.4,27.0,10,miércoles,3,77.6,35.0
+CMP-0569,6,Buscadores,9.2,41.0,0,lunes,3,45.2,20.5
+CMP-0570,5,Buscadores,2.0,21.0,15,lunes,1,20.8,10.1
+CMP-0571,9,Redes sociales,5.7,8.0,0,martes,6,19.5,8.4
+CMP-0572,1,TV y radio,37.6,44.0,0,martes,3,108.1,50.4
+CMP-0573,7,Buscadores,8.1,24.0,0,sábado,8,45.1,21.2
+CMP-0574,6,Email,14.9,13.0,0,jueves,7,40.3,17.2
+CMP-0575,7,TV y radio,8.3,31.0,15,domingo,2,43.9,18.8
+CMP-0576,2,Buscadores,28.4,19.0,15,jueves,8,94.6,40.6
+CMP-0577,12,TV y radio,17.6,43.0,10,domingo,2,128.2,59.3
+CMP-0578,3,Buscadores,14.3,18.0,0,jueves,4,60.9,27.8
+CMP-0579,9,TV y radio,77.4,28.0,10,miércoles,4,200.1,91.2
+CMP-0580,9,Redes sociales,29.8,28.0,10,sábado,8,78.0,34.1
+CMP-0581,5,Buscadores,10.0,16.0,15,jueves,6,73.4,30.9
+CMP-0582,2,Buscadores,8.4,26.0,15,martes,8,60.6,27.0
+CMP-0583,4,Redes sociales,9.9,11.0,10,jueves,5,36.7,15.1
+CMP-0584,10,Buscadores,16.3,32.0,10,viernes,7,107.6,46.8
+CMP-0585,11,TV y radio,18.1,36.0,30,miércoles,7,115.4,53.1
+CMP-0586,12,Email,9.5,44.0,20,viernes,7,63.5,27.7
+CMP-0587,3,Redes sociales,28.9,19.0,10,domingo,4,109.7,45.8
+CMP-0588,8,Redes sociales,11.2,18.0,10,miércoles,4,45.7,18.8
+CMP-0589,2,Redes sociales,47.7,28.0,0,miércoles,8,103.6,44.4
+CMP-0590,9,Redes sociales,12.7,34.0,30,miércoles,7,89.0,40.4
+CMP-0591,5,TV y radio,56.0,45.0,10,sábado,8,176.4,81.0
+CMP-0592,9,Buscadores,14.9,7.0,0,martes,5,34.9,15.4
+CMP-0593,9,Redes sociales,21.4,16.0,30,domingo,8,82.4,34.5
+CMP-0594,12,Buscadores,7.8,17.0,15,miércoles,6,65.2,29.0
+CMP-0595,6,Redes sociales,7.2,16.0,0,sábado,6,33.1,14.7
+CMP-0596,5,Redes sociales,15.8,25.0,0,sábado,2,51.6,23.4
+CMP-0597,7,Email,21.7,41.0,0,sábado,5,68.5,31.7
+CMP-0598,2,Email,12.3,8.0,15,domingo,6,23.4,10.7
+CMP-0599,2,TV y radio,8.8,38.0,0,martes,7,29.4,13.3
+CMP-0600,7,Email,5.3,31.0,30,viernes,8,40.6,16.9
+CMP-0601,10,Buscadores,5.1,30.0,30,lunes,3,47.4,21.8
+CMP-0602,7,Email,4.2,33.0,10,miércoles,3,22.0,10.0
+CMP-0603,10,TV y radio,20.5,11.0,15,lunes,8,40.8,19.4
+CMP-0604,3,Email,23.6,36.0,0,viernes,8,83.1,36.4
+CMP-0605,6,TV y radio,19.0,16.0,0,viernes,2,46.5,19.7
+CMP-0606,8,Email,3.1,27.0,15,sábado,4,21.1,8.8
+CMP-0607,5,TV y radio,17.1,33.0,0,martes,8,57.4,25.8
+CMP-0608,1,Redes sociales,10.9,30.0,0,miércoles,2,42.5,18.8
+CMP-0609,1,Email,42.2,19.0,10,viernes,7,87.7,40.2
+CMP-0610,12,Buscadores,5.0,22.0,0,sábado,1,61.1,27.1
+CMP-0611,8,Buscadores,9.5,25.0,10,domingo,2,63.9,28.6
+CMP-0612,4,Email,33.4,8.0,15,lunes,7,45.7,20.7
+CMP-0613,4,TV y radio,25.1,35.0,20,miércoles,5,99.3,44.8
+CMP-0614,1,TV y radio,26.9,10.0,15,lunes,5,56.3,25.0
+CMP-0615,12,Redes sociales,12.9,24.0,20,sábado,7,152.5,70.4
+CMP-0616,2,Email,14.6,32.0,10,lunes,3,44.5,20.5
+CMP-0617,10,Email,19.1,10.0,20,sábado,5,45.0,18.8
+CMP-0618,3,Redes sociales,7.4,45.0,10,martes,5,62.3,24.7
+CMP-0619,5,Redes sociales,20.3,21.0,0,lunes,6,48.1,23.2
+CMP-0620,4,Redes sociales,5.3,7.0,30,domingo,3,18.2,8.8
+CMP-0621,10,Email,14.6,32.0,0,jueves,6,61.9,29.5
+CMP-0622,1,Buscadores,13.4,28.0,0,miércoles,4,69.9,31.9
+CMP-0623,5,TV y radio,13.3,31.0,0,viernes,5,38.4,16.7
+CMP-0624,4,Buscadores,11.8,36.0,10,martes,7,74.8,33.0
+CMP-0625,4,TV y radio,13.3,25.0,10,viernes,4,63.3,28.5
+CMP-0626,3,Buscadores,6.3,39.0,10,jueves,6,54.6,24.2
+CMP-0627,11,Email,9.7,21.0,20,martes,8,44.1,20.7
+CMP-0628,5,Redes sociales,6.2,,0,miércoles,7,28.6,13.2
+CMP-0629,6,Buscadores,14.6,13.0,10,lunes,8,57.2,26.0
+CMP-0630,5,TV y radio,9.6,31.0,10,miércoles,5,41.4,20.4
+CMP-0631,12,TV y radio,29.4,17.0,20,viernes,3,140.9,67.9
+CMP-0632,5,TV y radio,9.4,34.0,0,lunes,8,42.1,20.2
+CMP-0633,5,Redes sociales,8.5,38.0,0,lunes,6,47.2,20.6
+CMP-0634,4,Buscadores,8.2,40.0,10,viernes,2,50.3,22.6
+CMP-0635,4,Redes sociales,26.6,43.0,15,miércoles,3,95.4,42.1
+CMP-0636,2,Redes sociales,14.6,11.0,20,lunes,3,38.0,19.0
+CMP-0637,8,Email,10.6,12.0,15,sábado,7,23.4,11.5
+CMP-0638,1,Email,16.2,43.0,20,sábado,1,67.0,29.5
+CMP-0639,3,Email,3.4,21.0,10,lunes,6,15.7,8.2
+CMP-0640,3,TV y radio,18.7,8.0,0,martes,5,28.5,12.2
+CMP-0641,4,Email,39.8,18.0,0,miércoles,1,63.5,31.6
+CMP-0642,10,TV y radio,20.8,39.0,0,sábado,5,69.6,30.3
+CMP-0643,8,Redes sociales,12.5,20.0,10,lunes,7,54.4,25.8
+CMP-0644,12,Redes sociales,16.7,9.0,10,sábado,6,75.2,32.4
+CMP-0645,5,Email,20.5,35.0,10,miércoles,5,89.4,34.6
+CMP-0646,12,TV y radio,5.8,14.0,15,lunes,3,30.6,15.6
+CMP-0647,1,Redes sociales,4.4,20.0,10,domingo,2,23.5,10.3
+CMP-0648,7,Buscadores,13.6,7.0,15,lunes,1,32.5,16.1
+CMP-0649,10,Email,7.8,30.0,15,lunes,3,34.2,15.2
+CMP-0650,7,Redes sociales,26.4,24.0,10,domingo,6,99.8,45.8
+CMP-0651,12,Buscadores,9.9,40.0,10,jueves,1,106.2,48.0
+CMP-0652,4,TV y radio,6.1,20.0,15,jueves,8,19.9,9.5
+CMP-0653,1,Email,5.6,14.0,15,viernes,5,19.9,8.7
+CMP-0654,10,Redes sociales,2.3,13.0,10,viernes,3,14.6,7.2
+CMP-0655,1,TV y radio,16.6,14.0,10,viernes,8,49.9,21.3
+CMP-0656,10,Redes sociales,10.7,24.0,15,lunes,2,42.0,19.5
+CMP-0657,9,TV y radio,14.9,10.0,15,jueves,8,49.4,24.1
+CMP-0658,11,Redes sociales,22.9,22.0,0,martes,3,104.4,43.8
+CMP-0659,6,Buscadores,24.6,40.0,10,sábado,4,138.1,63.0
+CMP-0660,11,Buscadores,10.8,36.0,20,jueves,4,121.8,50.3
+CMP-0661,3,Redes sociales,3.3,31.0,0,lunes,8,21.2,9.1
+CMP-0662,6,TV y radio,27.8,41.0,20,domingo,3,89.1,42.2
+CMP-0663,2,Redes sociales,16.7,37.0,0,martes,8,74.2,33.9
+CMP-0664,10,Redes sociales,14.4,32.0,10,martes,3,78.1,35.3
+CMP-0665,9,Redes sociales,21.6,40.0,10,domingo,3,112.2,47.2
+CMP-0666,10,Email,6.0,11.0,0,sábado,6,18.6,8.3
+CMP-0667,10,TV y radio,64.2,38.0,30,domingo,6,175.2,79.0
+CMP-0668,4,TV y radio,10.7,18.0,10,viernes,3,46.1,21.2
+CMP-0669,1,Redes sociales,18.8,35.0,30,domingo,2,87.3,39.8
+CMP-0670,12,Buscadores,4.4,42.0,0,lunes,4,56.9,24.2
+CMP-0671,6,Redes sociales,6.9,26.0,20,viernes,5,32.9,14.9
+CMP-0672,2,Buscadores,29.8,10.0,30,miércoles,1,61.5,28.5
+CMP-0673,12,TV y radio,16.5,21.0,15,miércoles,1,86.3,40.4
+CMP-0674,12,Email,19.9,22.0,0,martes,8,67.4,31.5
+CMP-0675,6,Buscadores,13.8,43.0,15,martes,1,64.1,31.3
+CMP-0676,10,Buscadores,11.3,43.0,10,jueves,4,79.9,37.7
+CMP-0677,1,TV y radio,43.5,29.0,30,domingo,7,216.6,91.3
+CMP-0678,2,Buscadores,10.4,44.0,10,viernes,3,70.6,32.4
+CMP-0679,4,Redes sociales,4.1,24.0,0,miércoles,4,22.9,10.1
+CMP-0680,8,Buscadores,7.4,23.0,0,jueves,1,39.4,20.3
+CMP-0681,2,Redes sociales,16.7,39.0,15,jueves,7,75.8,33.5
+CMP-0682,1,Redes sociales,15.2,33.0,30,martes,6,99.4,45.5
+CMP-0683,9,Redes sociales,4.7,27.0,0,jueves,7,24.3,11.3
+CMP-0684,10,Buscadores,7.8,24.0,15,viernes,7,56.1,25.3
+CMP-0685,9,Email,8.5,34.0,30,martes,3,46.3,21.6
+CMP-0686,10,Redes sociales,9.6,36.0,0,viernes,1,44.8,22.6
+CMP-0687,10,Buscadores,5.3,26.0,0,viernes,3,37.6,16.3
+CMP-0688,8,TV y radio,13.1,8.0,15,jueves,2,29.1,13.1
+CMP-0689,7,Email,7.8,10.0,15,miércoles,5,26.9,12.4
+CMP-0690,11,Buscadores,19.1,12.0,0,jueves,2,95.2,45.4
+CMP-0691,5,Redes sociales,19.5,25.0,20,sábado,8,85.8,42.0
+CMP-0692,2,TV y radio,17.6,30.0,10,martes,5,67.4,30.3
+CMP-0693,10,Redes sociales,9.5,38.0,30,viernes,3,63.8,26.7
+CMP-0694,4,Redes sociales,13.1,16.0,20,viernes,8,70.5,31.7
+CMP-0695,12,TV y radio,11.8,37.0,20,miércoles,7,82.2,40.1
+CMP-0696,5,Buscadores,6.0,32.0,10,miércoles,4,77.7,34.9
+CMP-0697,11,Email,6.8,9.0,0,domingo,2,17.3,7.9
+CMP-0698,1,Buscadores,8.2,20.0,10,miércoles,3,48.0,20.9
+CMP-0699,8,Email,6.0,18.0,0,viernes,5,23.7,10.4
+CMP-0700,6,Redes sociales,13.2,41.0,15,martes,7,62.9,33.2
+CMP-0701,6,Redes sociales,18.6,42.0,0,domingo,3,102.3,45.2
+CMP-0702,4,Redes sociales,4.6,38.0,10,viernes,6,26.6,12.7
+CMP-0703,12,Redes sociales,12.2,27.0,0,sábado,3,78.9,38.5
+CMP-0704,5,TV y radio,16.8,26.0,0,viernes,2,63.3,29.1
+CMP-0705,11,Redes sociales,14.7,19.0,0,miércoles,4,76.2,33.9
+CMP-0706,6,Buscadores,11.9,37.0,15,miércoles,2,65.4,32.3
+CMP-0707,1,Email,5.0,10.0,20,viernes,4,21.9,9.6
+CMP-0708,11,Email,5.6,17.0,0,domingo,3,32.5,14.2
+CMP-0709,3,Buscadores,12.2,12.0,20,lunes,3,63.7,28.9
+CMP-0710,4,Buscadores,22.2,26.0,20,sábado,7,122.2,58.0
+CMP-0711,11,TV y radio,5.1,18.0,10,sábado,3,29.3,14.0
+CMP-0712,11,Email,14.8,14.0,15,lunes,6,57.4,24.8
+CMP-0713,12,TV y radio,39.2,21.0,10,lunes,6,150.3,73.7
+CMP-0714,6,TV y radio,17.4,40.0,0,viernes,6,63.5,27.4
+CMP-0715,10,Email,16.7,28.0,10,sábado,3,50.2,23.0
+CMP-0716,4,Redes sociales,7.9,39.0,0,miércoles,7,34.4,15.7
+CMP-0717,9,Buscadores,11.2,42.0,20,viernes,2,68.9,34.1
+CMP-0718,7,Redes sociales,4.5,42.0,30,domingo,3,38.4,17.6
+CMP-0719,1,Email,2.9,20.0,20,miércoles,7,17.2,7.6
+CMP-0720,6,TV y radio,33.8,41.0,15,martes,3,109.1,53.0
+CMP-0721,6,Buscadores,6.6,42.0,15,domingo,6,61.0,27.0
+CMP-0722,4,Buscadores,9.1,44.0,30,martes,1,73.2,33.1
+CMP-0723,5,Redes sociales,5.2,20.0,0,jueves,5,30.7,14.4
+CMP-0724,7,TV y radio,8.2,15.0,0,jueves,7,26.3,11.4
+CMP-0725,1,Redes sociales,10.8,29.0,15,jueves,6,47.2,24.0
+CMP-0726,2,Redes sociales,7.7,43.0,10,martes,5,39.4,17.6
+CMP-0727,10,Redes sociales,15.1,42.0,10,viernes,7,59.2,24.8
+CMP-0728,5,Redes sociales,15.7,29.0,0,viernes,3,59.1,25.0
+CMP-0729,8,Buscadores,14.5,12.0,15,martes,4,73.7,32.9
+CMP-0730,7,Buscadores,13.8,23.0,0,jueves,1,52.3,24.1
+CMP-0731,7,Redes sociales,30.9,34.0,0,lunes,6,117.8,55.3
+CMP-0732,5,Redes sociales,6.3,28.0,0,martes,6,40.1,18.5
+CMP-0733,6,Redes sociales,11.6,20.0,10,domingo,7,48.6,21.5
+CMP-0734,10,Buscadores,23.7,20.0,20,jueves,6,119.1,56.4
+CMP-0735,12,Redes sociales,25.6,9.0,10,viernes,2,100.8,44.1
+CMP-0736,4,Email,5.1,18.0,15,domingo,6,23.6,9.6
+CMP-0737,9,Redes sociales,9.9,33.0,20,viernes,7,64.9,29.6
+CMP-0738,12,Redes sociales,27.1,16.0,10,sábado,2,100.8,49.0
+CMP-0739,1,Buscadores,16.3,45.0,20,viernes,4,95.7,46.5
+CMP-0740,10,Buscadores,13.5,10.0,15,jueves,8,49.0,21.4
+CMP-0741,6,Redes sociales,10.5,29.0,15,viernes,4,57.9,26.4
+CMP-0742,12,Redes sociales,9.5,26.0,0,miércoles,7,76.4,33.2
+CMP-0743,7,TV y radio,22.9,39.0,0,domingo,5,68.6,32.0
+CMP-0744,11,Redes sociales,10.3,41.0,30,martes,6,74.6,32.5
+CMP-0745,2,Buscadores,11.7,28.0,20,domingo,6,54.4,24.9
+CMP-0746,2,Buscadores,12.6,31.0,30,domingo,6,78.0,36.8
+CMP-0747,12,Redes sociales,8.0,34.0,30,lunes,7,101.8,47.2
+CMP-0748,7,Buscadores,16.5,27.0,0,viernes,8,81.9,39.5
+CMP-0749,7,Email,60.0,14.0,20,domingo,3,123.8,51.0
+CMP-0750,3,TV y radio,6.6,23.0,10,viernes,8,33.6,15.4
+CMP-0751,3,Redes sociales,14.6,16.0,20,miércoles,6,58.8,25.9
+CMP-0752,10,Redes sociales,7.6,25.0,0,domingo,5,33.0,15.4
+CMP-0753,4,Redes sociales,17.0,30.0,0,jueves,3,54.3,26.0
+CMP-0754,8,Buscadores,12.3,15.0,20,lunes,4,80.5,37.0
+CMP-0755,4,Email,19.0,16.0,20,martes,6,41.0,17.6
+CMP-0756,4,Redes sociales,24.3,39.0,15,viernes,3,115.1,53.7
+CMP-0757,2,Redes sociales,13.5,21.0,10,jueves,3,40.5,19.2
+CMP-0758,12,TV y radio,37.9,14.0,10,martes,7,113.6,51.2
+CMP-0759,12,Redes sociales,2.9,34.0,30,sábado,4,51.2,22.7
+CMP-0760,2,Buscadores,31.2,34.0,10,lunes,6,117.7,49.3
+CMP-0761,5,Email,15.0,39.0,10,martes,1,52.2,23.3
+CMP-0762,7,Redes sociales,22.9,36.0,15,jueves,1,100.6,44.3
+CMP-0763,5,Redes sociales,5.8,45.0,10,lunes,7,40.9,17.9
+CMP-0764,9,Redes sociales,7.3,29.0,15,miércoles,2,37.8,18.2
+CMP-0765,4,TV y radio,21.0,18.0,10,domingo,7,46.4,22.1
+CMP-0766,1,Redes sociales,11.9,40.0,20,domingo,8,55.7,26.8
+CMP-0767,5,Redes sociales,14.2,17.0,30,domingo,4,74.1,36.0
+CMP-0768,8,Redes sociales,23.0,18.0,30,miércoles,8,98.8,43.2
+CMP-0769,3,Redes sociales,4.2,,15,lunes,4,33.3,14.9
+CMP-0770,10,Email,21.5,41.0,10,sábado,8,70.9,32.1
+CMP-0771,1,Redes sociales,12.1,20.0,15,miércoles,2,43.2,22.3
+CMP-0772,1,Buscadores,10.6,35.0,20,sábado,4,112.3,46.1
+CMP-0773,7,Buscadores,5.0,42.0,15,lunes,4,42.2,20.1
+CMP-0774,7,TV y radio,25.9,38.0,15,viernes,7,96.2,39.5
+CMP-0775,4,Redes sociales,2.8,7.0,15,viernes,1,11.6,5.7
+CMP-0776,4,TV y radio,28.3,32.0,15,domingo,7,82.6,39.1
+CMP-0777,1,Email,4.9,13.0,15,lunes,1,15.4,7.8
+CMP-0778,8,Redes sociales,12.4,40.0,0,miércoles,3,56.7,25.3
+CMP-0779,5,Email,11.2,9.0,10,domingo,5,24.0,11.5
+CMP-0780,2,TV y radio,38.7,45.0,15,miércoles,2,98.8,47.4
+CMP-0781,5,Redes sociales,10.8,13.0,0,viernes,4,44.3,21.5
+CMP-0782,12,TV y radio,12.6,23.0,20,martes,8,83.1,36.3
+CMP-0783,4,Buscadores,8.9,16.0,15,sábado,7,37.5,16.4
+CMP-0784,11,Email,25.8,38.0,0,martes,1,110.3,45.8
+CMP-0785,4,TV y radio,26.6,22.0,20,viernes,5,84.7,39.8
+CMP-0786,3,Buscadores,9.5,36.0,15,domingo,5,71.0,31.9
+CMP-0787,4,TV y radio,16.6,9.0,20,viernes,1,38.3,18.6
+CMP-0788,4,Redes sociales,4.7,24.0,10,jueves,6,27.7,12.8
+CMP-0789,2,Email,15.1,42.0,20,martes,5,49.3,23.0
+CMP-0790,8,Email,4.2,,10,miércoles,6,26.4,11.7
+CMP-0791,5,Redes sociales,18.8,15.0,15,sábado,3,63.0,27.2
+CMP-0792,9,Buscadores,13.0,22.0,0,martes,3,59.4,25.7
+CMP-0793,6,Redes sociales,50.3,22.0,15,viernes,6,230.0,109.0
+CMP-0794,6,Redes sociales,6.2,29.0,15,jueves,6,36.0,15.6
+CMP-0795,6,Redes sociales,11.3,27.0,15,miércoles,2,57.8,26.3
+CMP-0796,2,Redes sociales,35.3,11.0,10,sábado,2,50.7,23.4
+CMP-0797,9,Redes sociales,24.5,36.0,20,miércoles,5,107.5,50.6
+CMP-0798,2,Redes sociales,7.9,15.0,15,miércoles,7,24.0,11.2
+CMP-0799,9,Email,13.7,,0,jueves,2,40.1,16.7
+CMP-0800,12,Email,12.0,39.0,30,sábado,2,101.5,45.5
+CMP-0801,10,Email,14.2,33.0,15,domingo,7,60.7,27.3
+CMP-0802,6,Redes sociales,7.9,22.0,30,viernes,6,51.7,23.8
+CMP-0803,4,TV y radio,18.2,42.0,30,viernes,8,73.3,29.5
+CMP-0804,11,Buscadores,4.6,22.0,30,sábado,7,78.2,33.3
+CMP-0805,4,Redes sociales,13.0,29.0,20,martes,8,54.3,25.6
+CMP-0806,6,Redes sociales,15.7,16.0,15,martes,2,73.3,33.8
+CMP-0807,10,Email,10.5,14.0,0,jueves,3,32.6,15.0
+CMP-0808,12,Redes sociales,4.6,26.0,10,viernes,2,45.5,20.5
+CMP-0809,12,Buscadores,21.7,28.0,20,viernes,1,153.0,72.0
+CMP-0810,2,TV y radio,23.8,38.0,10,martes,7,69.4,30.9
+CMP-0811,11,Redes sociales,7.8,22.0,20,sábado,6,56.6,23.9
+CMP-0812,2,Redes sociales,10.1,41.0,0,miércoles,1,36.4,17.6
+CMP-0813,8,TV y radio,7.8,30.0,10,domingo,2,33.2,16.0
+CMP-0814,12,Buscadores,6.5,9.0,10,sábado,2,29.4,13.7
+CMP-0815,8,Redes sociales,8.7,35.0,10,domingo,4,55.2,25.6
+CMP-0816,12,TV y radio,40.2,29.0,0,viernes,4,161.0,66.2
+CMP-0817,5,TV y radio,13.1,22.0,0,jueves,3,41.8,18.1
+CMP-0818,4,Buscadores,17.6,25.0,20,martes,8,100.3,43.5
+CMP-0819,4,Email,8.7,18.0,10,miércoles,2,32.6,15.0
+CMP-0820,5,Redes sociales,13.9,30.0,0,domingo,5,49.4,22.8
+CMP-0821,9,Redes sociales,11.0,29.0,0,miércoles,4,32.0,15.7
+CMP-0822,6,Buscadores,20.3,24.0,10,lunes,4,113.3,49.5
+CMP-0823,9,Redes sociales,8.7,18.0,0,martes,7,38.7,17.2
+CMP-0824,5,Email,4.7,22.0,15,viernes,8,24.0,10.2
+CMP-0825,4,TV y radio,8.3,26.0,20,viernes,1,33.9,15.6
+CMP-0826,3,Redes sociales,8.7,25.0,0,domingo,4,39.7,18.2
+CMP-0827,7,Buscadores,5.7,19.0,15,domingo,1,33.0,14.9
+CMP-0828,11,Redes sociales,15.3,29.0,0,jueves,4,70.9,30.8
+CMP-0829,11,TV y radio,14.6,15.0,10,jueves,5,47.4,23.2
+CMP-0830,4,Redes sociales,49.9,26.0,20,sábado,4,197.6,86.6
+CMP-0831,6,Email,4.2,11.0,10,lunes,3,13.8,6.3
+CMP-0832,9,Buscadores,13.6,25.0,20,viernes,3,77.0,36.9
+CMP-0833,8,Buscadores,6.1,37.0,0,jueves,3,52.6,26.5
+CMP-0834,1,Email,8.9,38.0,10,sábado,3,41.1,18.8
+CMP-0835,8,Email,13.1,,10,sábado,3,57.2,24.2
+CMP-0836,1,Buscadores,3.0,36.0,10,viernes,6,30.4,12.7
+CMP-0837,2,Email,13.8,9.0,30,viernes,1,26.6,11.9
+CMP-0838,8,TV y radio,60.2,20.0,0,viernes,1,95.5,39.4
+CMP-0839,2,Buscadores,9.1,32.0,20,viernes,5,64.3,29.3
+CMP-0840,5,Buscadores,14.0,38.0,20,martes,6,108.8,47.1
+CMP-0841,8,Redes sociales,22.2,29.0,15,martes,3,88.7,41.2
+CMP-0842,8,Email,10.9,40.0,10,sábado,2,43.5,20.3
+CMP-0843,6,Buscadores,8.5,17.0,10,viernes,5,52.7,24.8
+CMP-0844,2,Buscadores,3.1,12.0,0,martes,4,10.3,5.2
+CMP-0845,10,Redes sociales,17.6,10.0,20,domingo,6,50.4,21.5
+CMP-0846,12,TV y radio,17.9,29.0,10,domingo,2,76.6,35.9
+CMP-0847,11,Buscadores,6.5,32.0,30,viernes,1,98.4,46.5
+CMP-0848,9,Email,12.9,18.0,15,martes,5,46.8,22.5
+CMP-0849,5,Redes sociales,8.5,37.0,10,domingo,4,33.7,15.5
+CMP-0850,11,TV y radio,13.9,35.0,15,martes,6,67.1,27.9
+CMP-0851,6,Redes sociales,17.3,21.0,10,jueves,5,73.4,30.0
+CMP-0852,2,Redes sociales,5.4,16.0,30,domingo,3,22.1,10.9
+CMP-0853,11,TV y radio,36.0,35.0,0,jueves,2,102.4,47.4
+CMP-0854,4,TV y radio,8.3,33.0,30,martes,2,59.9,28.7
+CMP-0855,12,Redes sociales,8.1,13.0,20,lunes,7,56.1,24.3
+CMP-0856,5,Buscadores,38.0,16.0,20,miércoles,2,163.3,73.2
+CMP-0857,11,Email,23.6,25.0,10,viernes,5,80.6,37.8
+CMP-0858,7,TV y radio,20.3,26.0,20,sábado,7,85.0,38.5
+CMP-0859,6,Buscadores,6.8,13.0,10,martes,8,33.6,15.7
+CMP-0860,4,Buscadores,8.7,43.0,20,martes,3,73.3,30.7
+CMP-0861,11,Email,12.5,22.0,0,viernes,1,57.1,25.2
+CMP-0862,1,Email,12.3,21.0,10,martes,7,34.4,15.1
+CMP-0863,6,Email,11.4,9.0,10,lunes,6,28.6,14.8
+CMP-0864,5,Buscadores,11.8,41.0,10,jueves,3,80.4,36.7
+CMP-0865,7,Redes sociales,10.6,16.0,10,jueves,5,57.3,23.5
+CMP-0866,4,TV y radio,8.2,45.0,20,martes,2,40.4,17.2
+CMP-0867,8,TV y radio,14.1,26.0,0,martes,6,37.7,18.8
+CMP-0868,5,Email,20.8,41.0,15,martes,6,62.6,28.9
+CMP-0869,3,Redes sociales,5.3,13.0,0,miércoles,3,20.6,9.9
+CMP-0870,3,Redes sociales,10.7,13.0,20,lunes,4,46.9,19.6
+CMP-0871,9,Email,7.3,38.0,20,lunes,3,35.7,16.0
+CMP-0872,4,Redes sociales,12.8,38.0,10,miércoles,1,52.3,24.7
+CMP-0873,4,TV y radio,15.2,28.0,15,lunes,2,49.9,22.6
+CMP-0874,8,Buscadores,29.1,8.0,30,miércoles,8,78.6,40.7
+CMP-0875,4,Email,16.3,43.0,20,viernes,4,59.5,28.6
+CMP-0876,5,TV y radio,8.8,,10,lunes,2,32.8,14.9
+CMP-0877,3,Buscadores,18.0,43.0,10,viernes,1,139.4,60.8
+CMP-0878,5,Redes sociales,7.5,40.0,20,viernes,3,43.5,21.8
+CMP-0879,9,Email,8.5,40.0,0,viernes,8,40.6,18.8
+CMP-0880,7,Buscadores,14.5,33.0,20,viernes,4,94.3,40.7
+CMP-0881,12,Buscadores,8.9,33.0,10,sábado,8,87.2,42.6
+CMP-0882,10,Email,20.5,27.0,20,lunes,4,73.0,32.8
+CMP-0883,1,TV y radio,12.0,7.0,0,martes,7,16.5,7.5
+CMP-0884,5,Buscadores,8.3,22.0,0,miércoles,7,64.2,26.8
+CMP-0885,4,Redes sociales,8.1,35.0,30,viernes,1,53.4,24.5
+CMP-0886,8,Buscadores,8.5,38.0,20,domingo,1,75.8,34.8
+CMP-0887,4,Buscadores,23.2,28.0,20,domingo,8,121.4,52.9
+CMP-0888,12,Redes sociales,17.5,34.0,30,viernes,8,124.4,60.4
+CMP-0889,4,Redes sociales,33.5,7.0,10,miércoles,2,49.7,22.8
+CMP-0890,7,Email,46.8,25.0,0,miércoles,6,120.4,56.0
+CMP-0891,2,Redes sociales,6.5,26.0,0,lunes,8,27.1,12.4
+CMP-0892,11,TV y radio,20.0,41.0,10,jueves,8,106.4,46.3
+CMP-0893,11,Redes sociales,5.9,19.0,0,jueves,3,44.7,19.7
+CMP-0894,10,Redes sociales,7.5,15.0,30,martes,7,45.1,21.3
+CMP-0895,5,Email,8.2,20.0,0,sábado,6,31.6,14.3
+CMP-0896,1,TV y radio,10.2,13.0,0,sábado,8,24.6,10.4
+CMP-0897,9,Redes sociales,6.4,28.0,0,miércoles,2,28.3,13.4
+CMP-0898,6,Redes sociales,11.0,32.0,0,domingo,5,42.8,19.3
+CMP-0899,12,Redes sociales,5.8,38.0,0,lunes,1,52.0,23.9
+CMP-0900,9,Buscadores,19.9,44.0,15,domingo,3,122.8,56.0
